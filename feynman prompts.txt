@@ -1,0 +1,9 @@
+objects: data collection that contain KEY:VALUE pairs
+
+Properties: associated with objects and are the KEY of the KEY:VALUE pairs
+
+Methods: functions within objects
+
+For In loop: a loop to iterate over objects
+
+dot notation vs bracket notation: use dot notation if you know the actual property and bracket notation when using a variable such as a string
